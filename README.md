@@ -54,6 +54,7 @@ Welcome to my GitHub profile! I am a passionate computer science student current
 - LinkedIn: [Swastik Mukati](https://www.linkedin.com/in/swastik-mukati-4256aa294/)
 - Email: [swastikmukati@gmail.com](mailto:swastikmukati@gmail.com)
 - GitHub: [Swastik-03](https://github.com/Swastik-03)
+- My Resume: [Swastik Mukati](https://drive.google.com/file/d/157Fs-sWbKh3BQEqaxhAp3BZ1ZDoF6gNI/view?usp=drive_link)
 
 ## 📈 GitHub Stats
 
